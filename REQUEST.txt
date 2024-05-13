@@ -1,3 +1,4 @@
+Yêu cầu:
 1) Thực hiện việc rút gọn số chiều dữ liệu, hiện thị trực quan dữ liệu
 
 2) Thực hiện phân cụm (clustering) dữ liệu gốc bằng 01 thuật toán phân cụm. Hiện thị thị trực quan và đánh dấu các cụm.
