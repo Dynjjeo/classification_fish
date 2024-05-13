@@ -1,0 +1,13 @@
+1) Thực hiện việc rút gọn số chiều dữ liệu, hiện thị trực quan dữ liệu
+
+2) Thực hiện phân cụm (clustering) dữ liệu gốc bằng 01 thuật toán phân cụm. Hiện thị thị trực quan và đánh dấu các cụm.
+
+3) Xây dựng chương trình sử dụng mô hình Multinomial Logistic Regression (Softmax) để
+phân loại các hình ảnh, huấn luyện mô hình bằng tập dữ liệu training sau đó chạy kiểm
+tra với dữ liệu trong tập validation, test
+
+4) Xây dựng chương trình sử dụng mô hình CNN để phân loại các hình ảnh. Kiến trúc cụ
+thể như sau: Mạng gồm ít nhất 03 tầng tích chập hỗn hợp Convolution + Activation ReLU
++ Max Pooling, 02 tầng fully connected với số units phù hợp và tầng quyết định cuối cùng sử dụng softmax. Huấn luyện mô hình bằng tập dữ liệu training sau đó chạy kiểm tra với dữ liệu trong tập validation, test
+
+5) So sánh độ chính xác (sử dụng accuracy, confusion matrix, recall và precision) của các mô hình trong ý 3) và ý 4)
